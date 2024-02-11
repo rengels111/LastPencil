@@ -1,0 +1,20 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Last Pencil (Java)/*
+!/Last Pencil (Java)/task/
+/Last Pencil (Java)/task/*
+!/Last Pencil (Java)/task/src
+
+# Project exclude paths
+/Topics/For-loop/Generate an inverted pyramid from asterisks/out/
+/Topics/For-loop/Generate an inverted pyramid from asterisks/out/production/classes/
